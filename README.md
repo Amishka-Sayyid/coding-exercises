@@ -6,6 +6,7 @@ It covers **frontend (HTML, CSS, JavaScript, React, Next.js)**, **backend (Node.
 ## 📂 Folder Structure
 
 ```
+
 coding-exercises/
 │
 ├── frontend/
@@ -24,7 +25,6 @@ coding-exercises/
 ├── algorithms/ # Problem-solving & coding challenges
 │
 └── README.md
-
 
 ```
 
