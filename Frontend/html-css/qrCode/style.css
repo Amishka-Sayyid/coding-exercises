@@ -68,3 +68,15 @@ img {
   font-weight: 400;
   text-align: center;
 }
+
+@media (max-width: 375px) {
+  .card {
+    width: 90%;
+    height: auto;
+    padding: 16px;
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }
+}
